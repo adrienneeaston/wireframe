@@ -1,0 +1,53 @@
+body {
+    width: 1000px;
+    margin: auto;
+}
+
+header {
+    
+}
+
+main {
+    width: 960px;
+    margin: 0 auto;
+}
+
+footer {
+
+}
+
+#logoimg {
+    float: left;
+}
+
+#nav1, #nav2, #nav3, #nav4 {
+    float: left;
+    width: 200px;
+}
+
+#heroimg {
+  
+}
+
+#trio1, #trio2, #trio3 {
+    overflow: auto;
+    width: 300px;
+    float: left;
+}
+
+#trio1 {
+    margin: 15px 15px 15px 0px;
+}
+
+#trio2 {
+    margin: 15px;
+}
+
+#trio3 {
+    margin: 15px 0px 15px 15px;
+}
+
+#trios {
+    width: 960px;
+    margin:0 auto;
+}
