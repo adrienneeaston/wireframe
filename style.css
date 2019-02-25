@@ -19,13 +19,12 @@ main {
 footer {
     height: 100px;
     background-color: darkgray;
+    clear: both;
 }
 
 #logoimg {
-    width; 200px;
-    display: inline-block;
-    float: left;
-    background-color: black;
+    margin: 15px;
+    outline: solid;
 }
 
 #nav1, #nav2, #nav3, #nav4 {
@@ -39,7 +38,6 @@ footer {
 }
 
 #trio1, #trio2, #trio3 {
-    overflow: auto;
     width: 300px;
     float: left;
 }
