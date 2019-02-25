@@ -1,10 +1,14 @@
 body {
-    width: 1000px;
+    width: 100%;
     margin: auto;
 }
 
 header {
-    
+    height: 100px;
+    background-color: darkgrey;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
 }
 
 main {
@@ -13,20 +17,25 @@ main {
 }
 
 footer {
-
+    height: 100px;
+    background-color: darkgray;
 }
 
 #logoimg {
+    width; 200px;
+    display: inline-block;
     float: left;
+    background-color: black;
 }
 
 #nav1, #nav2, #nav3, #nav4 {
-    float: left;
+    text-align: center;
+    display: inline-block;
     width: 200px;
 }
 
 #heroimg {
-  
+  margin: 15px 0px 15px 0px;
 }
 
 #trio1, #trio2, #trio3 {
@@ -47,7 +56,13 @@ footer {
     margin: 15px 0px 15px 15px;
 }
 
-#trios {
-    width: 960px;
-    margin:0 auto;
+#featuredimg {
+    float: left;
+    margin: 15px 15px 15px 0px;
+}
+
+div {
+    width: 450px;
+    float: left;
+    margin: 15px 0px 15px 15px;
 }
